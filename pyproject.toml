@@ -1,0 +1,18 @@
+[project]
+name = "conkits"
+version = "0.2.2"
+description = "封装了常用的 ANSI 控制码，包括前景色，背景色，光标控制以及一些其他的有趣功能。"
+authors = [
+  { name="EKSIlvyAh", email="1926139610@qq.com" },
+]
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+[project.urls]
+"Homepage" = "https://github.com/EKSIlvyAh/conkits"
+"Bug Tracker" = "https://github.com/EKSIlvyAh/conkits/issues"
+
